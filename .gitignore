@@ -1,0 +1,11 @@
+# Turso credentials - copy Secrets.example.swift.txt to Sources/Secrets.swift
+# and fill in your own values, never commit that file.
+Sources/Secrets.swift
+
+# Xcode/xcodegen-generated project and build artifacts.
+TensionMirror.xcodeproj/
+.build/
+build/
+DerivedData/
+
+.DS_Store
